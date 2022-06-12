@@ -117,7 +117,7 @@ export default function HomePage() {
       </p>
       <p>
         Jeśli <strong>zainteresowało Cię</strong> to co przeczytałaś /
-        przeczytałeś wyżej napisz do nas na adres email
+        przeczytałeś wyżej napisz do nas na adres:{" "}
         <em>hello@kursydlazielonych.pl</em>
       </p>
       <p>
