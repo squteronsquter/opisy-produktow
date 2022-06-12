@@ -10,13 +10,15 @@ export default function HomePage() {
     >
       <h1>Jak przygotowywać opisy produktów, które sprzedają?</h1>
       <p>
-        Jesteś jak ten leniwy i durnowaty sprzedawca na stacji CPN (obecny
-        Orlen) z okresu dawno minionej ery reglamentacji wszystkiego?
+        <strong>
+          Jesteś jak ten leniwy i durnowaty sprzedawca ze stacji CPN (obecny
+          Orlen) z okresu dawno minionej ery reglamentacji wszystkiego?
+        </strong>
       </p>
       <p>Twoi konkurenci śmieją się z Ciebie?</p>
       <p>
-        Twoje opisy produktów są tak durne, że klienci omijają Twój sklep z
-        daleka?
+        Twoje opisy produktów są tak sztampowe i durne, że klienci omijają Twój
+        sklep z daleka?
       </p>
       <p>Nie wierzysz, że opisy produktów sprzedają!</p>
       <p>
@@ -30,7 +32,7 @@ export default function HomePage() {
         lub Twojego potencjalnego klienta.
       </p>
       <p>
-        To oczywiście truzim, chociaż, z naszego doświadczenia agencyjnego mogę
+        To oczywiście truizm, chociaż, z naszego doświadczenia agencyjnego mogę
         powiedzieć, że nie wszyscy zdają sobie z tego sprawę w pełni.
       </p>
       <h2>Opisy produktów, które przekonują do zakupu u Ciebie.</h2>
