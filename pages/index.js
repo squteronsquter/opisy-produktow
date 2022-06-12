@@ -35,7 +35,7 @@ export default function HomePage() {
       </p>
       <p>
         To oczywisty truizm, jednak, z naszego doświadczenia agencyjnego mogę
-        powiedzieć, że nie wszyscy zdają sobie z tego sprawę w pełni.
+        powiedzieć, że nie wszyscy zdają sobie z tego sprawę.
       </p>
       <h2>Opisy produktów, które przekonują do zakupu u Ciebie.</h2>
       <p>
