@@ -1,0 +1,7 @@
+.robotImage {
+  display: inline-block;
+  background: var(--black);
+}
+li.indexList {
+  margin-left: 2rem;
+}

@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;400;700&display=swap");
+:root {
+  --white: #fafafa;
+  --black: #333333;
+  --red: #dc143c;
+  --width: 800px;
+  --gray: #ccc;
+  --blue: #6495ed;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  line-height: 1.8;
+}
+
+a {
+  text-decoration: none;
+  color: var(--red);
+}
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  margin: 10px 0;
+}
+
+h1 {
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+
+h2,
+h3,
+h4 {
+  line-height: 1.4;
+  padding: 1rem 0;
+}
+
+.btn {
+  display: inline-block;
+  background: var(--red);
+  color: var(--white);
+  padding: 10px 20px;
+  cursor: pointer;
+  border: 0;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.btn-secondary {
+  font: inherit;
+  font-size: 13px;
+  background: var(--black);
+  color: var(--white) !important;
+  border: 0;
+  border-radius: 5px;
+  padding: 5px 15px;
+  margin: 0 20px;
+  cursor: pointer;
+}
+
+.btn-secondary:hover {
+  opacity: 0.8;
+}
+
+.btn-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-icon svg {
+  margin-right: 5px;
+}
+
+footer {
+  bottom: 0;
+  max-width: var(--width);
+  margin: 0 auto;
+}
