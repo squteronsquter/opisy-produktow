@@ -34,7 +34,7 @@ export default function HomePage() {
         lub Twojego potencjalnego klienta.
       </p>
       <p>
-        To oczywiście truizm, chociaż, z naszego doświadczenia agencyjnego mogę
+        To oczywisty truizm, jednak, z naszego doświadczenia agencyjnego mogę
         powiedzieć, że nie wszyscy zdają sobie z tego sprawę w pełni.
       </p>
       <h2>Opisy produktów, które przekonują do zakupu u Ciebie.</h2>
