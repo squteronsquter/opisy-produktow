@@ -66,12 +66,11 @@ export default function HomePage() {
       </ul>
       <h3>
         Jest jeszcze wiele różnych osobowości, dla których powinieneś
-        przygotować swój "szwedzki stół" z opisami.
+        przygotować swój <em>szwedzki stół</em> z opisami.
       </h3>
       <p>
-        Co zatem robić? Trzeba <strong>wejść "w buty"</strong> wszystkich
-        możliwych typów klientów i przygotować opisy pod kątem ich
-        zainteresowań.
+        Co zatem robić? Trzeba <em>wejść w buty</em> wszystkich możliwych typów
+        klientów i przygotować opisy pod kątem ich zainteresowań.
       </p>
       <p>Pytanie. Jak zrobić to w najlepszy, najprostszy sposób?</p>
       <p>
@@ -84,7 +83,7 @@ export default function HomePage() {
           Niecierpliwych).
         </li>
         <li className={styles.indexList}>
-          Następnie dobrze jest przygotować "<strong>Spis treści</strong>".
+          Następnie dobrze jest przygotować <strong>Spis treści</strong>.
         </li>
       </ul>
       <h3>Po co spis treści w opisie produktu?</h3>
@@ -95,13 +94,13 @@ export default function HomePage() {
       </p>
       <p>
         Po jednym spojrzeniu na spis treści możemy, podobnie gdy podchodzimy do
-        "szwedzkiego stołu", zorientować, się czy dania na które mamy apetyt,
+        szwedzkiego stołu, zorientować, się czy dania na które mamy apetyt,
         znajdują się na stole. Możemy zatem szybko sięgnąć po te dania, na które
         mamy w danej chwili apetyt.
       </p>
       <p>
         Jeśli <strong>zainteresowało Cię</strong> to co przeczytałaś /
-        przeczytałeś wyżej napisz do nas na adres email{" "}
+        przeczytałeś wyżej napisz do nas na adres email
         <em>hello@kursydlazielonych.pl</em>
       </p>
       <p>
