@@ -69,9 +69,9 @@ export default function HomePage() {
           klientów ważne będą <strong>szczegóły</strong>!
         </li>
         <li className={styles.indexList}>
-          Państwo <strong>Niecierpliwi</strong> pragną po spojrzeniu na pierwszy
-          paragraf zorientować się, czy ten produkt lub usługa spełnia ich
-          oczekiwania. Czy trafili na właściwą stronę!
+          Państwo <strong>Niecierpliwi</strong> pragną, po spojrzeniu na
+          pierwszy paragraf, zorientować się, czy ten produkt lub usługa spełnia
+          ich oczekiwania. Czy trafili na właściwą stronę?
         </li>
         <li className={styles.indexList}>
           <strong>Pożeracze obrazów</strong> będą sycili oczy pięknymi zdjęciami
