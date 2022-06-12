@@ -9,7 +9,9 @@ export default function HomePage() {
       description="Jeśli jesteś autorem opisów produtów lub usług w sklepie interentowym to z tego poradnika dowiesz się jak pisać opisy, które sprzedają."
     >
       <h1>Jak przygotowywać opisy produktów, które sprzedają.</h1>
-      <p>Cześć. Słyszę, że protestujesz! Opisy nie sprzedają!</p>
+      <p>
+        Cześć. Słyszę, że protestujesz! <br></br>- <em>Opisy nie sprzedają!</em>
+      </p>
       <p>To prawda i jednocześnie nieprawda!</p>
       <p>
         Oczywiście <strong>sam dobry opis </strong>nie sprzeda twojego produktu
