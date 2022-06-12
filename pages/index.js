@@ -65,17 +65,17 @@ export default function HomePage() {
       </p>
       <ul>
         <li className={styles.indexList}>
-          Pani Ciekawska / Pan Ciekawski, chce wiedzieć jak najwięcej. Dla tych
+          Pani Ciekawska / Pan Ciekawski, chcą wiedzieć jak najwięcej. Dla tych
           klientów ważne będą <strong>szczegóły</strong>!
         </li>
         <li className={styles.indexList}>
-          Państwo <strong>Niecierpliwi</strong> chcą po spojrzeniu na pierwszy
+          Państwo <strong>Niecierpliwi</strong> pragną po spojrzeniu na pierwszy
           paragraf zorientować się, czy ten produkt lub usługa spełnia ich
           oczekiwania. Czy trafili na właściwą stronę!
         </li>
         <li className={styles.indexList}>
           <strong>Pożeracze obrazów</strong> będą sycili oczy pięknymi zdjęciami
-          produktów, zechcą zobaczyć zbliżenia, więc dla nich ważne będą zdjęcia
+          produktów. Zechcą zobaczyć zbliżenia, więc dla nich ważne będą zdjęcia
           w dobrej jakości lub zdjęcia makro, ze wszystkich możliwych stron.
         </li>
       </ul>
@@ -125,10 +125,10 @@ export default function HomePage() {
       </p>
 
       <p>
-        <em>Autor: Robocik</em>
+        <em>Autor: Robocik aka Karol Bajrulewicz</em>
       </p>
       <div className={styles.robotImage}>
-        <Image src="/img/svg/robot.svg" alt="Logo" width="128" height="128" />
+        <Image src="/img/svg/robot.svg" alt="Logo" width="96" height="96" />
       </div>
     </Layout>
   );
