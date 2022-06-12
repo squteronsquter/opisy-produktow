@@ -29,9 +29,9 @@ export default function HomePage() {
       <p>To prawda i jednocześnie nieprawda!</p>
       <p>
         Oczywiście <strong>sam dobry opis </strong>nie sprzeda Twojego produktu
-        lub usługi. Musisz mieć produkt lub usługę, która mówiąc{" "}
-        <strong>ogólnie spełni oczekiwania</strong> Twojej potencjalnej klientki
-        lub Twojego potencjalnego klienta.
+        lub usługi. Musisz mieć produkt lub usługę, która ogólnie mówiąc{" "}
+        <strong>spełni oczekiwania</strong> Twojej potencjalnej klientki lub
+        Twojego potencjalnego klienta.
       </p>
       <p>
         To oczywisty truizm, jednak, z naszego doświadczenia agencyjnego mogę
