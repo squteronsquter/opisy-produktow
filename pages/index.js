@@ -20,7 +20,9 @@ export default function HomePage() {
         Twoje opisy produktów są tak sztampowe i durne, że klienci omijają Twój
         sklep z daleka?
       </p>
-      <p>Nie wierzysz, że opisy produktów sprzedają!</p>
+      <p>
+        Nie wierzysz, że <strong>opisy produktów sprzedają!</strong>
+      </p>
       <p>
         Słyszę, że protestujesz! <br></br>- <em>Opisy nie sprzedają!</em>
       </p>
