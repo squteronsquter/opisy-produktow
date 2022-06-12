@@ -8,16 +8,26 @@ export default function HomePage() {
       title="Jak pisać dobre opisy produktów w sklepie interentowym"
       description="Jeśli jesteś autorem opisów produtów lub usług w sklepie interentowym to z tego poradnika dowiesz się jak pisać opisy, które sprzedają."
     >
-      <h1>Jak przygotowywać opisy produktów, które sprzedają.</h1>
+      <h1>Jak przygotowywać opisy produktów, które sprzedają?</h1>
       <p>
-        Cześć. Słyszę, że protestujesz! <br></br>- <em>Opisy nie sprzedają!</em>
+        Jesteś jak ten leniwy i durnowaty sprzedawca na stacji CPN (obecny
+        Orlen) z okresu dawno minionej ery reglamentacji wszystkiego?
+      </p>
+      <p>Twoi konkurenci śmieją się z Ciebie?</p>
+      <p>
+        Twoje opisy produktów są tak durne, że klienci omijają Twój sklep z
+        daleka?
+      </p>
+      <p>Nie wierzysz, że opisy produktów sprzedają!</p>
+      <p>
+        Słyszę, że protestujesz! <br></br>- <em>Opisy nie sprzedają!</em>
       </p>
       <p>To prawda i jednocześnie nieprawda!</p>
       <p>
-        Oczywiście <strong>sam dobry opis </strong>nie sprzeda twojego produktu
+        Oczywiście <strong>sam dobry opis </strong>nie sprzeda Twojego produktu
         lub usługi. Musisz mieć produkt lub usługę, która mówiąc{" "}
-        <strong>ogólnie spełni oczekiwania</strong> twojej potencjalnej klientki
-        lub twojego potencjalnego klienta.
+        <strong>ogólnie spełni oczekiwania</strong> Twojej potencjalnej klientki
+        lub Twojego potencjalnego klienta.
       </p>
       <p>
         To oczywiście truzim, chociaż, z naszego doświadczenia agencyjnego mogę
@@ -28,9 +38,9 @@ export default function HomePage() {
         Co zatem zrobić, żeby napisać taki opis produktu, który sprawi, że
         <strong>
           {" "}
-          pomoże on podjąć klientowi decyzję o zakupie twojego produktu
+          pomoże on podjąć klientom decyzję o zakupie Twojego produktu
         </strong>{" "}
-        lub usługi, zamiast podobnych w sklepie twojej konkurencji?
+        lub usługi, zamiast podobnych w sklepie Twojej konkurencji?
       </p>
       <p>
         Z doświadczenia sklepów, które odnoszą sukcesy w sprzedaży wynika, że
@@ -40,14 +50,14 @@ export default function HomePage() {
         </strong>
         .
       </p>
-      <h2>Twoi klienci są różni.</h2>
+      <h2>Twoi klienci są różni!</h2>
       <p>
-        Jeśli przygotowujesz opisy w opraciu o swoje preferencje i oczekiwania,
+        Jeśli przygotowujesz opisy w oparciu o swoje preferencje i oczekiwania,
         popełniasz poważny błąd!
       </p>
       <p>
         Twój sklep internetowy odwiedzają ludzie, którzy w większości nie są
-        podobni do ciebie.
+        podobni do Ciebie.
       </p>
       <ul>
         <li className={styles.indexList}>
@@ -56,14 +66,13 @@ export default function HomePage() {
         </li>
         <li className={styles.indexList}>
           Państwo <strong>Niecierpliwi</strong> chcą po spojrzeniu na pierwszy
-          paragraf zorientować się czy ten produkt lub usługa spełnia ich
-          oczekiwania. Czy w ogóle dobrze trafili na właściwą stronę!
+          paragraf zorientować się, czy ten produkt lub usługa spełnia ich
+          oczekiwania. Czy trafili na właściwą stronę!
         </li>
         <li className={styles.indexList}>
-          <strong>Pożeracze obrazów</strong> będą sycili swoje oczy pięknymi
-          zdjęciami produktów, zechcą zobaczyć zbliżenia, więc dla nich ważne
-          będą zdjęcia w dobrej jakości lub zdjęcia makro, ze wszystkich
-          możliwych stron.
+          <strong>Pożeracze obrazów</strong> będą sycili oczy pięknymi zdjęciami
+          produktów, zechcą zobaczyć zbliżenia, więc dla nich ważne będą zdjęcia
+          w dobrej jakości lub zdjęcia makro, ze wszystkich możliwych stron.
         </li>
       </ul>
       <h3>
@@ -88,17 +97,19 @@ export default function HomePage() {
           Następnie dobrze jest przygotować <strong>Spis treści</strong>.
         </li>
       </ul>
-      <h3>Po co spis treści w opisie produktu?</h3>
+      <h3>
+        Po co <em>spis treści</em> w opisie produktu?
+      </h3>
       <p>
         <strong>Spis treści w opisie produktu to dobry zabieg</strong>, który
         pozwoli wszystkim zorientować się, czy interesujące treści znajdują się
         na stronie na której Internautka / Internauta ląduje.
       </p>
       <p>
-        Po jednym spojrzeniu na spis treści możemy, podobnie gdy podchodzimy do
-        szwedzkiego stołu, zorientować, się czy dania na które mamy apetyt,
-        znajdują się na stole. Możemy zatem szybko sięgnąć po te dania, na które
-        mamy w danej chwili apetyt.
+        Po jednym spojrzeniu na spis treści możemy, podobnie jak w sytuacji, gdy
+        podchodzimy do szwedzkiego stołu, zorientować, się czy dania na które
+        mamy apetyt, znajdują się na stole. Możemy zatem szybko sięgnąć po te
+        dania, na które mamy w danej chwili apetyt.
       </p>
       <p>
         Jeśli <strong>zainteresowało Cię</strong> to co przeczytałaś /
