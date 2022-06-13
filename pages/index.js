@@ -89,7 +89,7 @@ export default function HomePage() {
       </p>
       <p>Pytanie. Jak zrobić to w najlepszy, najprostszy sposób?</p>
       <p>
-        Moim zdaniem należy na <strong>początku opisu</strong> zrobić dwie
+        Moim zdaniem należy na <strong>początku opisu</strong> zrobić parę
         rzeczy:
       </p>
       <ul>
