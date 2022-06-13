@@ -102,7 +102,7 @@ export default function HomePage() {
         </li>
         <li className={styles.indexList}>
           Dobrym pomysłem jest umieszczenie <strong>filmiku video</strong>, w
-          którym opowiemy o produkcie lub pokarzemy jego działanie i korzyści.
+          którym opowiemy o produkcie lub pokażemy jego działanie i korzyści.
         </li>
       </ul>
       <h3>
