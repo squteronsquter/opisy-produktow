@@ -100,6 +100,10 @@ export default function HomePage() {
         <li className={styles.indexList}>
           Następnie dobrze jest przygotować <strong>Spis treści</strong>.
         </li>
+        <li className={styles.indexList}>
+          Dobrym pomysłem jest umieszczenie <strong>filmiku video</strong>, w
+          którym opowiemy o produkcie lub pokarzemy jego działanie i korzyści.
+        </li>
       </ul>
       <h3>
         Po co <em>spis treści</em> w opisie produktu?
@@ -116,9 +120,8 @@ export default function HomePage() {
         dania, na które mamy w danej chwili apetyt.
       </p>
       <p>
-        Jeśli <strong>zainteresowało Cię</strong> to co przeczytałaś /
-        przeczytałeś wyżej napisz do nas na adres:{" "}
-        <em>hello@kursydlazielonych.pl</em>
+        Jeśli <strong>zainteresował Cię</strong> ten artykuł, napisz do nas na
+        adres: <em>hello@kursydlazielonych.pl</em>
       </p>
       <p>
         <strong>Ciąg dalszy nastąpi!</strong>
